@@ -15,7 +15,7 @@
     "logging": false
   },
   "production": {
-    "use_env_variable": "JAWSDB_URL",
+    "use_env_variable": "jawsdb-curly-24658",
     "dialect": "mysql"
   }
 }
